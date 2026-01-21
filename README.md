@@ -16,7 +16,7 @@
 
  What is  FreelanceHub ?
 
-FreelanceHub is a web-based platform designed to facilitate the connection between freelancers and companies. The primary goal of Projectplus is to provide a seamless environment where freelancers can find job opportunities and companies can find skilled professionals to hire for their projects. The platform supports two main user modules: freelancers and companies.
+FreelanceHub is a web-based platform designed to facilitate the connection between freelancers and companies. The primary goal of FreelanceHub is to provide a seamless environment where freelancers can find job opportunities and companies can find skilled professionals to hire for their projects. The platform supports two main user modules: freelancers and companies.
 
 
 ## Main Modules
